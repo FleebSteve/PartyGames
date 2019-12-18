@@ -1,4 +1,4 @@
-package org.flbstv.games;
+package org.flbstv.partygames.drawing;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
